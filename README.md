@@ -11,6 +11,8 @@ Users can register, login, browse books, add to cart, and place orders with a be
 🎥 Demo Video : 
 https://drive.google.com/file/d/1K6YkmwtcKwJTDKb7e7lD4rHTD0ums8km/view?usp=drivesdk
 
+🚀 Live Demo :
+https://book-nest-six-topaz.vercel.app/ Click the link
 ---
 
 ## 📸 Demo Screenshots
@@ -267,5 +269,6 @@ GET /api/orders
 👩‍💻 Author
 
 Developed by Kushulatha Kunche
+
 
 
